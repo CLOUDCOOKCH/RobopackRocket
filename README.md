@@ -3,8 +3,8 @@
 ![Version](https://img.shields.io/badge/version-2.1-blue) ![Type](https://img.shields.io/badge/Browser%20Extension-Chrome%20%7C%20Edge%20%7C%20Firefox-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **Supercharging the RoboPack script editor with VS Code (Monaco), PSADT v4 Tools, and Zen Mode.**
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/3a6e8bbc-f329-4fee-a26d-6c49153da0ad" />
 
----
 
 ## 🧐 The Problem
 We rely heavily on tools like RoboPack to streamline Intune packaging. It does a great job abstracting the complexities of `.intunewin` creation.
