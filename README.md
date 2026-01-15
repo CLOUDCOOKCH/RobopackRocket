@@ -76,13 +76,13 @@ Navigate to any script page in RoboPack (e.g., "Custom App Settings" > "Post-Ins
 
 ## 📸 Screenshots
 
-> *Add a screenshot here showing the Editor with the Toolbox open*
+
 > <img width="1882" height="896" alt="image" src="https://github.com/user-attachments/assets/730110f3-3128-4399-b541-0ab4aec5e765" />
 <img width="992" height="885" alt="image" src="https://github.com/user-attachments/assets/1f497099-62ed-4da3-b40d-2e45587a1131" />
 
 
 
-> *Add a screenshot here showing Zen Mode*
+
 
 ---
 
@@ -90,12 +90,5 @@ Navigate to any script page in RoboPack (e.g., "Custom App Settings" > "Post-Ins
 This is a community project and is **not** affiliated with or endorsed by RoboPack. Use it at your own risk. It uses a "Shadow Sync" method to ensure your code is saved to the original form fields, but always verify your scripts before deployment.
 
 ---
-
-## 🤝 Contributing
-Got a better snippet? Found a bug?
-1.  Fork the repo.
-2.  Create a branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes.
-4.  Open a Pull Request.
 
 **Happy Packaging!** 📦
