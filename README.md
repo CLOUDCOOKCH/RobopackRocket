@@ -1,4 +1,4 @@
-# 🚀 RoboPack Pro Editor
+# 🚀 RoboPack Rocket
 
 ![Version](https://img.shields.io/badge/version-2.1-blue) ![Type](https://img.shields.io/badge/Browser%20Extension-Chrome%20%7C%20Edge%20%7C%20Firefox-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -77,6 +77,10 @@ Navigate to any script page in RoboPack (e.g., "Custom App Settings" > "Post-Ins
 ## 📸 Screenshots
 
 > *Add a screenshot here showing the Editor with the Toolbox open*
+> <img width="1882" height="896" alt="image" src="https://github.com/user-attachments/assets/730110f3-3128-4399-b541-0ab4aec5e765" />
+<img width="992" height="885" alt="image" src="https://github.com/user-attachments/assets/1f497099-62ed-4da3-b40d-2e45587a1131" />
+
+
 
 > *Add a screenshot here showing Zen Mode*
 
