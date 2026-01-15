@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "RoboPack Pro Editor",
+  "version": "1.0",
+  "description": "Replaces the standard text area with a Monaco (VS Code) PowerShell editor.",
+  "permissions": [
+    "activeTab",
+    "https://*.robopack.com/*",
+    "https://*.robopack.app/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.robopack.com/*", "*://*.robopack.app/*"],
+      "js": ["loader.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    "main.js"
+  ]
+}

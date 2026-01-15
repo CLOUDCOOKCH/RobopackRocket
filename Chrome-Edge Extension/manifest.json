@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "RoboPack Pro Editor",
+  "version": "2.1",
+  "description": "Upgrades Robopack with a VS Code (Monaco) editor, Zen Mode, and PSADT v4 Tools.",
+  "icons": {
+    "48": "icon.png" 
+  },
+  "host_permissions": [
+    "*://*.robopack.com/*",
+    "*://*.robopack.app/*"
+  ],
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.robopack.com/*", "*://*.robopack.app/*"],
+      "js": ["loader.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["main.js"],
+      "matches": ["*://*.robopack.com/*", "*://*.robopack.app/*"]
+    }
+  ]
+}
